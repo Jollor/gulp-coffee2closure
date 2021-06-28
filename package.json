@@ -8,7 +8,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "coffee2closure": "^0.1.3",
+    "coffee2closure": "Jollor/coffee2closure",
     "gulp-util": "^3.0.0",
     "through2": "^0.6.1"
   },
